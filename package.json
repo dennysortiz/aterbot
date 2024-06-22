@@ -1,9 +1,9 @@
 {
-	"private": true,
+	"private": false,
 	"type": "module",
 	
-	"name": "aterbot",
-	"version": "0.0.0",
+	"name": "audile+bot",
+	"version": "1.20.80",
 	
 	"scripts": {
 		"start": "tsx ./src/index.ts",
